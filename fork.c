@@ -14,7 +14,7 @@ void main()
        sum=sum+i;
        }
      }
-     printf("\nSUm of even numbers is %d",sum);
+     printf("\nSum of even numbers is %d",sum);
      int s=getppid();
      printf("\nParent id%d",s);
    }
@@ -27,8 +27,8 @@ void main()
        sum=sum+i;
        }
      }
-     printf("\nSUm of odd numbers is %d",sum); 
+     printf("\nSum of odd numbers is %d",sum); 
    }
   int p=getpid();
-   printf("\nProvess id %d",p);
+   printf("\nProcess id %d",p);
 }  
