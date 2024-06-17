@@ -43,7 +43,7 @@ void producer()
         }
         else
         {
-           printf("\nBUffer is fulll");
+           printf("\nBuffer is fulll");
          }
        break;
       case 2:
@@ -53,7 +53,7 @@ void producer()
         }
        else
        {
-         printf("\nBUffer is empty");
+         printf("\nBuffer is empty");
          }
          break;
       case 3:break;
